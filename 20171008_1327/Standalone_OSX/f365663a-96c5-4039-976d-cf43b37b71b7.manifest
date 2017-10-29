@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2644404882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c705fae823b3f80b631e8ddfd282704a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4017552d883e226e156746ce679bdb7d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9595e361ff6f04244a47bf63ea543702, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 685f2a173077ca747bf8217201a6acc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c953cd9ef9858348b9907fc6e16cf49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/EXTRAS/Christmas/xmas_train.prefab
+Dependencies:
+- Standalone_OSX/thumbnails

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1134011397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54ea8588cbb51d75e8c118122579ca9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5217451fa20ee4e949498ae9f7713c0b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/EVE/eve_curve_easilink.prefab
+Dependencies:
+- Standalone_OSX/thumbnails
