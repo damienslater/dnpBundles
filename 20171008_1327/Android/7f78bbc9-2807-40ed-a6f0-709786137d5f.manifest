@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1777133742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22f107034fe67539d643290bcea61e16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71c5332771b791ac91b74be62963bdd0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/_People/Animated man.prefab
+Dependencies: []

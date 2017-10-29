@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3715287030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d60d5d00e8d4a7f4faa64b1cc004b52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78caf7babb66d3961f3f7d1634f97407
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c361a4bc5269856449e6575f87868e68, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/EE/Trusses/trussassembly_10x10x10ftresizablehoriz.prefab
+Dependencies:
+- Android/thumbnails
