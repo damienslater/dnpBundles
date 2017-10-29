@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 956182789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c2be5ae493374f000475c94d9069d93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8b986a03208d546862147410b4ee3821
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e55f227349f3eba4da3090b8b789b0df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/_Dev/Truss2Supports.prefab
+Dependencies:
+- Standalone_Win/thumbnails

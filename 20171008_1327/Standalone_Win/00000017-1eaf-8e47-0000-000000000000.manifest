@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2581784953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb777d3d654a88215725f4c83098ec2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c4d633f8e65c5e9416d9160c9811c6c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cc3b6158f9ab154388dd6b14068f284, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9e2138af53e3b049ac55d2e050495fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cff41cdbe0abe0c47a6be01b14c8634b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/_People/B woman sitting.prefab
+Dependencies:
+- Standalone_Win/thumbnails

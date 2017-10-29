@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1541127337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a3efb5618f8c3f0251e62526d9e037d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 34e3dd97688da22a01d16b7ac4aa0f48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73b225de57629e8409d0f5f61ef55a4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d1bf5de9aa7562419948fdefcf7f03b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/EE/Aluvision Shelving/ee_aluvisionshelving_3_39w.prefab
+Dependencies:
+- Standalone_Win/thumbnails

@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1941970359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7686cba0e1fa623647649d63101f542
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9aba5569f345039cea91130489c4eff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9e2138af53e3b049ac55d2e050495fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 929db9ed3f846a74e9eb6e1ed1b97af6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa55fbeb0afed947b7bd881a364fa37, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 121
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/ISOFrame/Wave/Starter_Unit_with_bended_mesh_maxi.prefab
+Dependencies: []

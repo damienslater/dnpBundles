@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 288879755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9671b81c7ba335ef0cc270dd3e5f7d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ba91bc86ea295aafab815fa7a472118
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d1a2c0e504e56d4dba99ee90e215504, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/glossy reflective floor.prefab
+Dependencies:
+- Standalone_Win/thumbnails
