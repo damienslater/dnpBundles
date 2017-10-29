@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3670637915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 058f0a0abd10275749adc502ff74c001
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d6726c624af3bc2d57467f4eeb71e789
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d18a15e1474ef1747b5536956dc0be6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/EE/D_Vision/ee_dvision_cover.prefab
+Dependencies:
+- WebGL/thumbnails

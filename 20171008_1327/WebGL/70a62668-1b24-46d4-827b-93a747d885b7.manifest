@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 4015498434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b254689dbcac2d888d46194a7491c2bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8fd37c8deb399b0840daa83619cd83fd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d1bf5de9aa7562419948fdefcf7f03b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/Expand/GrandFabric/Expand Grandfabric Clamp 10cm.prefab
+Dependencies:
+- WebGL/thumbnails
