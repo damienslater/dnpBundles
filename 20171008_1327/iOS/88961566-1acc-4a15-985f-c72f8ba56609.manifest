@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 33144951
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df6828181347d3e2f66018220982450a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5474a934e425e774e3b77da6001b66c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/floor carpet with bump.prefab
+Dependencies:
+- iOS/thumbnails

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1590345412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c75f2308cb5adc62a5f37b6021b5d308
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5a5c9f701a380e451259783e4cbdb7c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 856f221482e6cbb44ad62b0520941f73, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/_Dev/TrussSupport.prefab
+Dependencies:
+- iOS/thumbnails

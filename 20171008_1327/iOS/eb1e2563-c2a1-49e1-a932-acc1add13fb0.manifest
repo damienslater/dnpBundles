@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2366029815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ca869319cad5beb6198bd046866e910
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b7dedb4091f095a55d140a21fb453459
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56a2219ab22fc1141afb2f4ac4a8154d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bdbeffcd9ab9634c9b691d661c8e1df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/ISOFrame/Wave/resizablewing_test.prefab
+Dependencies: []

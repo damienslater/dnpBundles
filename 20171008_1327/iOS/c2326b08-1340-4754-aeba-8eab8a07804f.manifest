@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 495579370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9874972b9b4a2a72b5f732b1f26f6c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5bb7b52a32ceb4e7410c825ee46db72e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cc3b6158f9ab154388dd6b14068f284, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9e2138af53e3b049ac55d2e050495fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cff41cdbe0abe0c47a6be01b14c8634b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d1bf5de9aa7562419948fdefcf7f03b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 121
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/TLT/TLT_Panel_Accessoties/tiger_ledlight.prefab
+Dependencies:
+- iOS/thumbnails

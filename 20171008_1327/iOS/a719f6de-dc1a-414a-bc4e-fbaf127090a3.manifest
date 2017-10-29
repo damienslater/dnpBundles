@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3996753806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d9e99a528cd6ffd414424209fbc5a63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af5a8358761eb244ff13fbeb9930a096
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cc3b6158f9ab154388dd6b14068f284, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cff41cdbe0abe0c47a6be01b14c8634b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d1bf5de9aa7562419948fdefcf7f03b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/Expand/GrandFabric/clamp.prefab
+Dependencies:
+- iOS/thumbnails

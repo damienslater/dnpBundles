@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 223196558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 264c53c7125a6b0b0d5e3044d6e5fb46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc985ea0053da1df07bcebca4395a466
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c62ee54fd7a7c404c843c2f5647530b6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/_Dev/TrussHorizontal.prefab
+Dependencies:
+- iOS/thumbnails

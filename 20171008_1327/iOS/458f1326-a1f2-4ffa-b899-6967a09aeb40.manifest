@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 309168040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbef0678b2c967514558c0c69244171e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9451bb7e2bd86c897dc512efa2489127
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9e2138af53e3b049ac55d2e050495fa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/_Dev/Hebe.prefab
+Dependencies:
+- iOS/thumbnails

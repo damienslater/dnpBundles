@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2485637010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fc656d2437ee05f455c149abdc2d311
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fea0e19ab394c1bd25b418abbed6839e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d18a15e1474ef1747b5536956dc0be6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cc3b6158f9ab154388dd6b14068f284, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cff41cdbe0abe0c47a6be01b14c8634b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/AOD/Custom Exhibits/Pfizer Blue Pod Exhibit/Reception Counter base
+  left.prefab
+Dependencies:
+- iOS/thumbnails

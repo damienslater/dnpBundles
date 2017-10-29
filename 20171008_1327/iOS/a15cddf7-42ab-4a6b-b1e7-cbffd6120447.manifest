@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3639995061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e958f2e0ac4fccd26fc6de2f02dd34d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d6eb87aeb55f51df811ce7a2b04ece33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbe7de448bb00245a30742ebaef50d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cc3b6158f9ab154388dd6b14068f284, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cff41cdbe0abe0c47a6be01b14c8634b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 929db9ed3f846a74e9eb6e1ed1b97af6, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/AOD/CustomRentalFabric/aod_crfe_2side2piecewall.prefab
+Dependencies:
+- iOS/thumbnails

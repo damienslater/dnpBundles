@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1160416724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bb50d6b107cef5e93f762c2d7dd1cff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 144e03a43070965698c71081485e8ec5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1209822f1cdc74189f5d6eec6d4c1c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Products/parquet with sheen.prefab
+Dependencies:
+- iOS/thumbnails
